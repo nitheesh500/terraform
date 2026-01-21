@@ -11,6 +11,7 @@
 # Crash log files
 crash.log
 crash.*.log
+awsdetails.txt
 
 # Terraform variables (can contain secrets)
 #*.tfvars
